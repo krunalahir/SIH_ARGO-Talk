@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+xarray
+netcdf4
+plotly
+sentence-transformers
+faiss-cpu
+mistralai
+plotly
+re
+pathlib
+os
