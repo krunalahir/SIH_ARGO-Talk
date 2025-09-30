@@ -1,13 +1,12 @@
-streamlit
+streamlit>=1.24.0
 pandas
 numpy
 xarray
 netcdf4
-plotly
+plotly>=5.15.0
 sentence-transformers
 faiss-cpu
 mistralai
-plotly
 re
 pathlib
 os
