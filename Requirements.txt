@@ -1,9 +1,9 @@
-streamlit>=1.24.0
+streamlit
 pandas
 numpy
 xarray
 netcdf4
-plotly>=5.15.0
+plotly
 sentence-transformers
 faiss-cpu
 mistralai
